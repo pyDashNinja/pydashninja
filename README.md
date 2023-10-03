@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Stable Diffusion**
 
-- 📫 How to reach me **ashaikh.msee21seecs@seecs.edu.pk**
+- 📫 How to reach me **sheikhahsan2015@gmail.com**
 
 - ⚡ Fun fact **I think, I am funny**
 
