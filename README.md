@@ -60,7 +60,7 @@
 
 <br clear="both">
 
-<img src="[https://raw.githubusercontent.com/pydashninja/pydashninja/snake.yml](https://raw.githubusercontent.com/pyDashNinja/pydashninja/main/.github/workflows/Snake.yml)" alt="Snake animation" />
+<img src="[https://raw.githubusercontent.com/pydashninja/pydashninja/snake.svg](https://raw.githubusercontent.com/pyDashNinja/pydashninja/main/.github/workflows/Snake.yml)" alt="Snake animation" />
 
 ###
 
